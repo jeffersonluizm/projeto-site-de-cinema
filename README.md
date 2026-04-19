@@ -11,11 +11,8 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 ## Integrantes
 
 * Jefferson Luiz Mendonça da Silva
-* Levi Alves de oliveira Neto
-* Bruno pereira Figueiredo
-* Kauã Silva
-* William Viana Caio Rosa
-* Nome completo do aluno 6
+* Diler
+
 
 ## Orientador
 
